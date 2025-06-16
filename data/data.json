@@ -1,7 +1,7 @@
 [
  {
   "id": 1,
-  "imgSrc": "images/p1.jpg",
+  "imgSrc": "images/cat.jpeg",
   "title": "첫 번째 타이포 작업물",
   "desc": "첫 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -10,7 +10,7 @@
  },
  {
   "id": 2,
-  "imgSrc": "images/p2.jpg",
+  "imgSrc": "images/cat2.jpeg",
   "title": "두 번째 상세페이지 작업물",
   "desc": "두 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -19,7 +19,7 @@
  },
  {
   "id": 3,
-  "imgSrc": "images/p3.jpg",
+  "imgSrc": "images/cat3.jpeg",
   "title": "세 번째 웹퍼블리싱 작업물",
   "desc": "세 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -28,7 +28,7 @@
  },
  {
   "id": 4,
-  "imgSrc": "images/p4.jpg",
+  "imgSrc": "images/cat4.jpeg",
   "title": "네 번째 웹퍼블리싱 작업물",
   "desc": "네 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -37,7 +37,7 @@
  },
  {
   "id": 5,
-  "imgSrc": "images/p5.jpg",
+  "imgSrc": "images/cat5.jpeg",
   "title": "다섯 번째 타이포 작업물",
   "desc": "다섯 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -46,7 +46,7 @@
  },
  {
   "id": 6,
-  "imgSrc": "images/p6.jpg",
+  "imgSrc": "images/cat6.jpeg",
   "title": "여섯 번째 웹퍼블리싱 작업물",
   "desc": "여섯 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
@@ -55,7 +55,7 @@
  },
  {
   "id": 7,
-  "imgSrc": "images/p7.jpg",
+  "imgSrc": "images/cat7.jpeg",
   "title": "일곱 번째 상세페이지 작업물",
   "desc": "일곱 번째 작업에 대한 설명입니다.",
   "createdAt": "2025.00.00",
